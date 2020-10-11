@@ -1,0 +1,1 @@
+# opencore-hackintosh-6700k-z170
